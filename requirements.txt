@@ -1,0 +1,12 @@
+pydantic
+langchain
+python-dotenv
+langchain-community
+pypdf
+bs4
+langchain-text-splitters
+langchain-openai
+aiohttp>=3.9.0
+brotlicffi
+chromadb
+faiss-cpu

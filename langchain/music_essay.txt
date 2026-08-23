@@ -1,0 +1,9 @@
+Western music theory is the study of the principles and structures that organize music. It helps musicians understand how notes, rhythms, melodies, harmonies, and forms work together to create a musical composition. The foundation of Western music theory begins with the musical alphabet, which consists of seven basic notes: A, B, C, D, E, F, and G. These notes repeat in higher or lower octaves.
+
+Scales are another important element. A scale is a sequence of notes arranged in ascending or descending order. The major scale follows a specific pattern of whole and half steps and often sounds bright or cheerful. The natural minor scale has a different pattern and generally creates a darker or more emotional character. From scales, musicians build chords, which are groups of three or more notes played together. Major, minor, diminished, and augmented chords are common types.
+
+Rhythm refers to the organization of sounds and silences in time. Beats are grouped into measures according to a time signature, such as 4/4 or 3/4. Tempo indicates how fast or slow a piece should be performed. Melody is a sequence of individual notes that forms the main musical idea, while harmony occurs when different notes or chords sound together.
+
+Musical notation provides a written system for representing these elements. The staff, clefs, notes, rests, key signatures, and time signatures allow musicians to read and perform compositions accurately. Key signatures also indicate the collection of sharps or flats used in a piece.
+
+Finally, musical form describes how sections of a composition are organized. Common forms include binary, ternary, rondo, and sonata form. Understanding these basic concepts gives musicians a foundation for analyzing, performing, and composing Western music.

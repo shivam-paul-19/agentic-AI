@@ -8,5 +8,9 @@ langchain-text-splitters
 langchain-openai
 aiohttp>=3.9.0
 brotlicffi
-chromadb
+chromadb==0.4.24
+chroma-hnswlib==0.7.3
+langchain-chroma==0.1.4
+onnxruntime==1.19.2
+posthog<3.0.0
 faiss-cpu

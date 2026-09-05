@@ -6,6 +6,7 @@ pypdf
 bs4
 langchain-text-splitters
 langchain-openai
+langgraph
 aiohttp>=3.9.0
 brotlicffi
 chromadb==0.4.24
